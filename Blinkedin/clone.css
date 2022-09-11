@@ -1,0 +1,265 @@
+body{
+    background-color: rgb(238, 234, 228);
+}
+.ink{
+    background-color: rgb(24, 114, 188);
+    color: white;
+    border-color: rgb(24, 114, 188);
+    border-radius: 3px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: -38px;
+    margin-left: 275px;
+    width: 30px;
+    height: 36px;
+}
+.link{
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+.make{
+    margin-left: 450px;
+    margin-top: 20px;
+    font-weight: 1;
+    font-size: small;
+}
+.box{
+    background-color: white;
+    width: 400px;
+    height: 450px;
+    margin-left: 550px;
+    border-radius: 10px;
+}
+.text{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 1;
+    margin-left: 20px;
+    margin-top: 100px;
+}
+.enter{
+    width: 300px;
+    margin-left: 50px;
+    height: 40px;
+    padding: 2px;
+    background-color: white;
+    border-radius: 5px;
+}
+.pass{
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 1;
+    margin-left: 20px;
+    margin-top: 1000px;
+}
+.pa{
+    width: 300px;
+    margin-left: 50px;
+    height: 40px;
+    padding: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    background-color: white;
+    border-radius: 5px;
+    
+}
+.pre{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin-left: 45px;
+}
+.user{
+    color:  rgb(24, 114, 188);
+    font-weight: bold;
+}
+.agree{
+    color: rgb(24, 114, 188);
+    margin-left: 20px;
+    font-weight: bold;
+}
+.com{
+    color: gray;
+    margin-left: 127px;
+    margin-top: -30px;
+}
+.poli{
+    color:  rgb(24, 114, 188);
+    font-weight: bold;
+    margin-left:10px ;
+}
+.and{
+    color: gray;
+    margin-left: 185px;
+    margin-top: -13px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.cook{
+    color: rgb(24, 114, 188);
+    margin-left: 7px;
+    font-weight: bold;
+}
+.agr{
+    color: white;
+    background-color: rgb(24, 114, 188);
+    border-radius: 50px;
+    width: 300px;
+    margin-left: 50px;
+    height: 50px;
+    font-weight: 700;
+    font-size: 20px ;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color:  rgb(24, 114, 188);
+    border-bottom-color:  rgb(24, 114, 188);
+    border-right-color:  rgb(24, 114, 188);
+    margin-top: 20px;
+    border-style: solid;
+}
+.agr:hover{
+    background-color: rgb(7, 57, 99);
+    border-color: rgb(7, 57, 99);
+}
+.dl{
+    margin-left: 58px;
+    color: gray;
+}
+.or{
+    margin-left: 10px;
+    margin-top: -50px;
+}
+.dr{
+    margin-left: 15px;
+}
+.goo{
+    background-color: white;
+    border-radius: 50px;
+    width: 350px;
+    height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: gray;
+    border-style: solid;
+    color: rgb(27, 26, 26);
+    margin-left: 26px;
+}
+.goo:hover{
+    background-color: rgb(231, 254, 254);
+    border-color:  rgb(159, 255, 255);
+}
+.ald{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+}
+.sig{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(24, 114, 188);
+    font-weight: bold;
+}
+.get{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(24, 114, 188);
+    font-weight: bold;
+}
+.read{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 580px;
+    margin-top: 20px;
+}
+.ri{
+    color: white;
+    font-size: px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+}
+.rec{
+    color: gray;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin-top: 60px;
+}
+.l{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.inn{
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+}
+.a{
+    color: gray;
+    text-decoration: none;
+}
+.a:hover{
+    color:  rgb(24, 114, 188);
+    text-decoration: underline;
+}
+.acc{
+    color: gray;
+    text-decoration: none;
+}
+.acc:hover{
+    color:  rgb(24, 114, 188);
+    text-decoration: underline;
+}
+.ua{
+    color: gray;
+    text-decoration: none;
+}
+.ua:hover{
+    color:  rgb(24, 114, 188);
+    text-decoration: underline;
+}
+.pp{
+    color: gray;
+    text-decoration: none;
+}
+.pp:hover{
+    color:  rgb(24, 114, 188);
+    text-decoration: underline;
+}
+.cp{
+    color: gray;
+    text-decoration: none;
+}
+.cp:hover{
+    color:  rgb(24, 114, 188);
+    text-decoration: underline;
+}
+.cyp{
+    color: gray;
+    text-decoration: none;
+}
+.cyp:hover{
+    color:  rgb(24, 114, 188);
+    text-decoration: underline;
+}
+.bp{
+    color: gray;
+    text-decoration: none;
+}
+.bp:hover{
+    color:  rgb(24, 114, 188);
+    text-decoration: underline;
+}
+.cg{
+    color: gray;
+    text-decoration: none;
+}
+.cg:hover{
+    color:  rgb(24, 114, 188);
+    text-decoration: underline;
+}
+.gc{
+    color: gray;
+    text-decoration: none;
+}
+.gc:hover{
+    color:  rgb(24, 114, 188);
+    text-decoration: underline;
+}
